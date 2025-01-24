@@ -1,4 +1,2 @@
-# templehack
-an minecraft hack client
-that spoofes packets for fun!
-
+# Custom Client Brand Mod
+Sends a custom client brand!
